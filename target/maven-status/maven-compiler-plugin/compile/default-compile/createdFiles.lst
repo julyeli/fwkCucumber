@@ -1,0 +1,10 @@
+cucumber\TestContext.class
+pageObjects\PageLogin.class
+dataProvider\ConfigFileReader.class
+managers\WebDriverManager$1.class
+managers\WebDriverManager.class
+enums\DriverType.class
+enums\EnvironmentType.class
+pageObjects\PageUsuario.class
+managers\PageObjectManager.class
+managers\FileReaderManager.class
